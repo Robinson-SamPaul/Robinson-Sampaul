@@ -46,9 +46,9 @@
 ## 📊 GitHub Stats
 
 <p style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robinson-SamPaul&show_icons=true&theme=tokyonight" width="45%" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinson-SamPaul&layout=compact&langs_count=5&theme=tokyonight" width="45%" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson-SamPaul&theme=tokyonight" width="45%"  alt="Contributions"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Robinson-SamPaul&show_icons=true&theme=tokyonight" width="30%" height="150 alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinson-SamPaul&layout=compact&langs_count=5&theme=tokyonight" width="30%" height="150  alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson-SamPaul&theme=tokyonight" width="30%" height="150 alt="Contributions"/>
 </p>
 
 ---
