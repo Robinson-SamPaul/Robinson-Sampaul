@@ -32,6 +32,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-E00B1C?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🧰 Tools & Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -48,7 +50,9 @@
 <p style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=Robinson-SamPaul&show_icons=true&theme=tokyonight" width="30%" height="150" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinson-SamPaul&layout=compact&langs_count=5&theme=tokyonight" width="30%" height="150" alt="Languages Graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson-SamPaul&theme=tokyonight" width="30%" height="150" alt="Contributions"/>
+
+[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson-SamPaul&theme=tokyonight" width="30%" height="150" alt="Contributions"/>)
+  <img src="https://streak-stats.demolab.com/?user=Robinson-SamPaul&theme=tokyonight" width="30%" height="150" alt="Contributions"/>
 </p>
 
 ---
