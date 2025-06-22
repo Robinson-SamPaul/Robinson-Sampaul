@@ -46,9 +46,9 @@
 ## 📊 GitHub Stats
 
 <p style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robinson-SamPaul&show_icons=true&theme=tokyonight" width="30%" height="150 alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinson-SamPaul&layout=compact&langs_count=5&theme=tokyonight" width="30%" height="150  alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson-SamPaul&theme=tokyonight" width="30%" height="150 alt="Contributions"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Robinson-SamPaul&show_icons=true&theme=tokyonight" width="30%" height="150" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinson-SamPaul&layout=compact&langs_count=5&theme=tokyonight" width="30%" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson-SamPaul&theme=tokyonight" width="30%" height="150" alt="Contributions"/>
 </p>
 
 ---
@@ -56,7 +56,10 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robinson-sampaul-e/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Robinson_SamPaul/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Robinson_SamPaul/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/robinpaugdkl/)
+[![CodeStudio](https://img.shields.io/badge/CodeStudio-orange?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/RobinsonSampaul)
+[![TakeYouForward](https://img.shields.io/badge/TakuForward-555?style=for-the-badge)](https://takeuforward.org/profile/samztagram)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robinpaulsam264@gmail.com)
 
 ---
